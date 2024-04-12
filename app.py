@@ -21,7 +21,7 @@ Fresh Gradute of Bachelor Degree in Computer Science of Software Engineering
 
 EMAIL = "lsihua411@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "www.linkedin.com/in/nicole-laish",
+    "LinkedIn": "https://www.linkedin.com/in/nicole-laish/",
     "GitHub": "https://github.com/nlsh0411"
 }
 
@@ -127,4 +127,4 @@ st.write('\n')
 st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in PROJECTS.items():
-    st.write(f"- [{project}]({link})")
+    st.write(f"-🗎 [{project}]({link})")
